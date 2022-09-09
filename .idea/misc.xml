@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/appicon_background.xml" value="0.211" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/backbutton.xml" value="0.211" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/circle.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/ic_launcher_background.xml" value="0.211" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/outline.xml" value="0.2325" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/product.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/productimg.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/productpage.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/recently_viewed.xml" value="0.2335" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/rounded_corner.xml" value="0.208" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/drawable/topbar.xml" value="0.1955" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/font/font.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/font/nexa_fonts.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/font/nexa_lightfont.xml" value="0.40974358974358976" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/layout/activity_product_page.xml" value="0.2" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/mipmap-anydpi-v26/appicon.xml" value="0.211" />
+        <entry key="..\:/Users/ssuth/OneDrive/Documents/AksProjects/iShopAkTechMobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.211" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3390625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

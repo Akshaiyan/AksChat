@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="0dp"
+    android:layout_marginRight="0dp"
+    android:orientation="vertical"
+    android:paddingLeft="0dp"
+    android:clipToPadding="false"
+    android:background="#F2F2F2"
+
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="531dp"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:layout_marginTop="200dp"
+            android:fontFamily="@font/textamedium"
+            android:text="Recently Scanned"
+            android:textColor="#000000"
+            android:textSize="34sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="245dp"
+
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="250dp"
+
+                android:layout_height="250dp"
+                android:orientation="vertical" />
+
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+            </HorizontalScrollView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:layout_marginTop="0sp"
+
+        android:background="@drawable/recently_viewed"
+        android:elevation="200dp"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/scanBtn"
+
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginRight="15dp"
+
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/rounded_corner"
+            android:elevation="10dp"
+
+
+
+            android:fontFamily="@font/textabold"
+            android:text="Scan Next Product"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:backgroundTint="@null" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
